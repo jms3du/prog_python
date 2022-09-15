@@ -1,1 +1,1 @@
-# prog_python
+# Introducción a la programación estructurada con Python
