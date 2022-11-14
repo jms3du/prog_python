@@ -17,5 +17,5 @@ Si tienes alguna duda sobre la estructura de un programa ve al siguiente [enlace
 [stack]:https://www.stackoverflow.com
 [Vamos a github](https://www.github.com)
 
-![supermario](https://avatars.githubusercontent.com/u/99337245?v=4)
+![supermario](https://github.com/jms3du/prog_python/blob/main/99337245.jpeg)
 
